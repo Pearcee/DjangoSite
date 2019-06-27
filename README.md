@@ -1,2 +1,0 @@
-# DjangoSite
-DjangoSite
